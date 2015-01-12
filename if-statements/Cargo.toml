@@ -1,0 +1,9 @@
+[package]
+
+name = "if_statements"
+version = "0.0.1"
+authors = [ "Rodrigo González López <rodrigosloop@gmail.com>" ]
+
+[[bin]]
+
+name = "if_statements"
